@@ -1,0 +1,1 @@
+python .\..\env_snmpsim\Scripts\snmpwalk.py -v2c -c public 127.0.0.1:1024 system

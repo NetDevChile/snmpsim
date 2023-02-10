@@ -1,0 +1,1 @@
+python .\..\env_snmpsim\Scripts\snmpsimd.py --data-dir=.\data --agent-udpv4-endpoint=127.0.0.1:1024 --variation-modules-dir=.\..\env_snmpsim\snmpsim\variation
